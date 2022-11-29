@@ -10,7 +10,7 @@ var ball;
 var slingShot;
 var polygon_img;
 
-
+//Funcion para precargar la imagen de mi Poligono 
 function preload(){
   polygon_img=loadImage("polygon.png");
 }
